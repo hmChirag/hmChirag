@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **js, react, python**
 
-- 👯 I’m looking to collaborate on **open source contribution**
+- 👯 I’m working on dsa
 
 - 📫 How to reach me **chiraghm2004@gmail.com**
 
