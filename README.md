@@ -4,15 +4,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hmchirag&label=Profile%20views&color=0e75b6&style=flat" alt="hmchirag" /> </p>
 
-<p align="center">- 🔭 I’m currently working on **fullstack web development**
+<p align="center">
 
-- 🌱 I’m currently learning **js, react, python**
-
-- 👯 I’m working on dsa
+- 🌱 I’m currently learning **Full stack web dev** 
 
 - 📫 How to reach me **chiraghm2004@gmail.com**
 
-- ⚡ Hobbies **Pencil sketching, cricket, coding**</p>
+- ⚡ Hobbies **Pencil sketching, coding**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
