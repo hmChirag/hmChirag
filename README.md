@@ -14,11 +14,11 @@
 
 - ⚡ Hobbies **Pencil sketching, cricket, coding**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chirag h m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag h m" height="30" width="40" /></a>
-<a href="https://instagram.com/chirag_hm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chirag_hm_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chirag h m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chirag h m" height="30" width="40" /></a>
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://linkedin.com/in/chirag h m" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag h m" height="30" width="40" /></a>
+<a href="https://instagram.com/chirag_hm_" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chirag_hm_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chirag h m" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chirag h m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
