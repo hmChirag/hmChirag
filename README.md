@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hmchirag&label=Profile%20views&color=0e75b6&style=flat" alt="hmchirag" /> </p>
 
-<p align="center">
+<p align="left">
 - 🔍  Working on DSA and MERN
   
 - 🌱 I’m currently learning **Full stack web dev** 
