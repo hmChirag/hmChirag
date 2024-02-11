@@ -5,10 +5,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hmchirag&label=Profile%20views&color=0e75b6&style=flat" alt="hmchirag" /> </p>
 
 <p align="center">
-
+- 🔍  Working on DSA and MERN
+  
 - 🌱 I’m currently learning **Full stack web dev** 
 
 - 📫 How to reach me **chiraghm2004@gmail.com**
+  
+- 🤝 I'm looking forward to **collabolate in web dev projects**
 
 - ⚡ Hobbies **Pencil sketching, coding**</p>
 
