@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **fullstack web development**
 
-- 🌱 I’m currently learning **express and node**
+- 🌱 I’m currently learning **backend**
 
 - 👯 I’m looking to collaborate on **open source contribution**
 
