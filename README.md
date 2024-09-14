@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmchirag&label=Profile%20views&color=0e75b6&style=flat" alt="hmchirag" /> </p>
 
-- 🔭 I’m currently working on **fullstack web development**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **open source contribution**
+- 👯 I’m looking to collaborate on **colaboration on projects**
 
 - 📫 How to reach me **chiraghm2004@gmail.com**
 
