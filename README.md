@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently doing **DSA**
 
 - 👯 I’m looking to collaborate on **colaboration on projects**
 
