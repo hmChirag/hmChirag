@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chiraghm2004@gmail.com**
 
-- ⚡ Hobbies **Tech research,pencil sketching, cricket**
+- ⚡ Hobbies **Coding,pencil sketching, cricket,gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
