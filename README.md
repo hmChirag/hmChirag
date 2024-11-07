@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently doing **DSA**
 
-- 👯 I’m looking to collaborate on **colaboration on projects**
+- 👯 I’m looking to **colaborate on projects**
 
 - 📫 How to reach me **chiraghm2004@gmail.com**
 
