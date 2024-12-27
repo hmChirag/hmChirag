@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmchirag&label=Profile%20views&color=0e75b6&style=flat" alt="hmchirag" /> </p>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **Full stack web dev**
 
 - 🌱 I’m currently doing **DSA**
 
