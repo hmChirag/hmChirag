@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **Full stack web dev**
 
-- 🌱 I’m currently doing **DSA**
+- 🌱 I’m currently exploring DevOps.
 
 - 👯 I’m looking to **colaborate on projects**
 
 - 📫 How to reach me **chiraghm2004@gmail.com**
 
-- ⚡ Hobbies **Coding,pencil sketching, cricket,gaming**
+- ⚡ Hobbies **Coding,pencil sketching, cricket,gaming, reading books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
